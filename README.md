@@ -40,17 +40,6 @@ A multi-user web service built with **Spring Boot** that allows users to **store
 | PUT    | `/api/recipe/{id}`                           | Update a recipe (owner only)        | ✅ Yes        |
 | DELETE | `/api/recipe/{id}`                           | Delete a recipe (owner only)        | ✅ Yes        |
 
----
-
-## 🏗️ Project Structure
-
-RecipeManager/
-├── controller/
-├── entity/
-├── repository/
-├── service/
-├── security/
-└── RecipeManagerApplication.java
 
 🧹 To-Do / Future Improvements
 🌐 Deploy to Heroku or Railway
